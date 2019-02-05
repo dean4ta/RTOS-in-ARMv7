@@ -9,7 +9,8 @@ My implementation of a RTOS using the ARMv7 architecture on a TI MSP432 chip
 - Aperiodic threads added to be triggered on interrupt
 - WiFi functionality demonstrated with UDP protocol to other microcontroller running identical code
 - 2 player Pong game using a router as access point
-- *See demo video in the WiFi_Pong Folder*
+- #### [View Demo Video Here][ref-id-demoVid]
+[ref-id-demoVid]: https://github.com/dean4ta/RTOS-in-ARMv7/blob/master/WiFi_Pong/v3_WiFi%20Pong%20demo.mp4
 
 ## [RTOS with sleep and periodic threads (v2)][ref-id-Periodic]
 [ref-id-Periodic]: https://github.com/dean4ta/RTOS-in-ARMv7/tree/master/RR_with_periodicScheduler_and_improvedSemaphores
